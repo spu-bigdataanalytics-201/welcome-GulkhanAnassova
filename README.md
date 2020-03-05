@@ -15,7 +15,7 @@ Things you will need to prepare before the first class is the things you will be
 3. SQL
 4. Integrated Development Editor (IDE)
 
-Going over to the list above won't take more than a few hours of your time. 
+Going over to the 
 
 ### Python
 
