@@ -117,10 +117,10 @@ print(grade)
 - [x] You will mark things you did in this list, like this one.
 - [x] Go over on this README file, entirely.
 - [x] Go over the links in [the things you need to prepared for](#how-to-prepare-to-the-first-class) section.
-- [ ] Review the [commit history](https://github.com/spu-bigdataanalytics-201/welcome/commits/master) on this repository.
-- [ ] Try the grading function in [grading](#grading) section.
-- [ ] [Participate](https://github.com/spu-bigdataanalytics-201/welcome/issues/1) in final project discussion!
-- [ ] Follow steps in [assignments](#assignments), and push your final changes to GitHub, to your repository. 
+- [x] Review the [commit history](https://github.com/spu-bigdataanalytics-201/welcome/commits/master) on this repository.
+- [x] Try the grading function in [grading](#grading) section.
+- [x] [Participate](https://github.com/spu-bigdataanalytics-201/welcome/issues/1) in final project discussion!
+- [x] Follow steps in [assignments](#assignments), and push your final changes to GitHub, to your repository. 
 
 ## Conclusion
 
