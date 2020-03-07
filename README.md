@@ -119,7 +119,7 @@ print(grade)
 - [x] Go over the links in [the things you need to prepared for](#how-to-prepare-to-the-first-class) section.
 - [x] Review the [commit history](https://github.com/spu-bigdataanalytics-201/welcome/commits/master) on this repository.
 - [x] Try the grading function in [grading](#grading) section.
-- [x] [Participate](https://github.com/spu-bigdataanalytics-201/welcome/issues/1) in final project discussion!
+- [x] [Participate]dvsfbghn(https://github.com/spu-bigdataanalytics-201/welcome/issues/1) in final project discussion!
 - [x] Follow steps in [assignments](#assignments), and push your final changes to GitHub, to your repository. 
 
 ## Conclusion
@@ -129,3 +129,5 @@ That's it! To a wonderful semester,
 Happy coding!
 
 By [@metinsenturk](https://github.com/metinsenturk).
+
+I am adding some stuff & practicing
