@@ -7,7 +7,7 @@ You made it! This is our start of a journey for the next few months!
 In this introductory repository, you will be guided to the concepts and ways of how we will be doing the class, assignments, and participations. Each section in below will tell you about itself.
 
 ## How to Prepare to the First Class
-
+sdfgj
 Things you will need to prepare before the first class is the things you will be using during the course of this class. Following is the stuff you need to be prepared for.
 
 1. Python
@@ -115,7 +115,7 @@ print(grade)
 ## Your To-Do List for This Task
 
 - [x] You will mark things you did in this list, like this one.
-- [ ] Go over on this README file, entirely.
+- [x] Go over on this README file, entirely.
 - [ ] Go over the links in [the things you need to prepared for](#how-to-prepare-to-the-first-class) section.
 - [ ] Review the [commit history](https://github.com/spu-bigdataanalytics-201/welcome/commits/master) on this repository.
 - [ ] Try the grading function in [grading](#grading) section.
