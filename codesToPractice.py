@@ -220,13 +220,6 @@ txt = "hello world"
 print(c.hump(txt))
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
